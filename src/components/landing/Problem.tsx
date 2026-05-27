@@ -18,7 +18,7 @@ export function Problem() {
         <div className="max-w-3xl">
           <span className="text-xs uppercase tracking-[0.25em] text-muted-foreground">O problema</span>
           <h2 className="mt-3 text-4xl md:text-5xl font-semibold text-balance">
-            Sua clínica atrai pacientes — mas perde a maioria deles antes do fechamento.
+            Sua clínica atrai pacientes, mas perde a maioria deles antes do fechamento.
           </h2>
           <p className="mt-5 text-lg text-muted-foreground">
             A maior parte das clínicas odontológicas investe em marketing, atrai avaliações,
